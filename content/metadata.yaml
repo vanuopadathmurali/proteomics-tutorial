@@ -17,7 +17,16 @@ authors:
       - Department of Biology, Institute of Molecular Systems Biology, ETH Zurich, Zurich 8093, Switzerland
       - Department of Biology, Institute of Molecular Biology and Biophysics, ETH Zurich, Zurich 8093, Switzerland
       - Laboratory of Biomolecular Research, Division of Biology and Chemistry, Paul Scherrer Institute, Villigen 5232, Switzerland
-
+      
+  - github: vanuopadathmurali 
+    name: Muralidharan Vanuopadath
+    initials: MV
+    orcid: 0000-0002-9364-917X
+    twitter: V_MuraleeDhar
+    email: muralidharanv@am.amrita.edu
+    affiliations:
+      - School of Biotechnology, Amrita Vishwa Vidyapeetham, Kollam-690 525, Kerala, India
+           
   - github: ArokiaRex
     name: Devasahayam Arokia Balaya Rex
     initials: DABR
